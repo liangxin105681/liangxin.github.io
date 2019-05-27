@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: cmssliangxin@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, liangxin's blog,  iOS, Apple, iPhone"
-url: "http://liangxin.github.io"          # your host, for absolute URL
+url: "http://cmssliangxin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/liangxin105681/liangxin.github.io.git" # you code repository
+github_repo: "https://github.com/cmssliangxin/cmssliangxin.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 
-github_username:    liangxin105681
+github_username:    cmssliangxin
 
 
 
@@ -64,8 +64,8 @@ gitalk:
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: liangxin.github.io    #仓库名称
-  owner: liangxin    #github用户名
-  admin: liangxin105681
+  owner: cmssliangxin    #github用户名
+  admin: cmssliangxin
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
